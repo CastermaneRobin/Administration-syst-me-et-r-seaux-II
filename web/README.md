@@ -2,7 +2,7 @@
 
 docker build -t webserver .
 
-3)
+2)
 
 docker run -itd -p 8080:80 webserver
 
